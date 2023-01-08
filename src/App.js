@@ -10,6 +10,7 @@ import Newsletter from "./components/Footer/Newsletter/Newsletter";
 import AppContext from "./utils/context";
 
 function App() {
+    //change
     return (
         <AppContext>
             <BrowserRouter>
